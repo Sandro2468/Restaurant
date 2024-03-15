@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "name": "Complete Burger",
+        "itemImage": "https://source.unsplash.com/500x400/?burger",
+        "description": "A juicy burger with all the fixings",
+        "price": 35000,
+        "category": "Food",
+        "sku": "BRGR-FD-500-001",
+        "itemStock": 50,
+        "availability": "Ready"
+    },
+    {
+        "id": 2,
+        "name": "Spicy Burger",
+        "itemImage": "https://source.unsplash.com/500x400/?spicy,burger",
+        "description": "A fiery burger with jalapenos and hot sauce",
+        "price": 40000,
+        "category": "Food",
+        "sku": "BRGR-FD-500-002",
+        "itemStock": 30,
+        "availability": "Ready"
+    },
+    {
+        "id": 3,
+        "name": "Family Pack Fried Chicken of 5",
+        "itemImage": "https://source.unsplash.com/500x400/?fried,chicken",
+        "description": "Five pieces of crispy fried chicken",
+        "price": 120000,
+        "category": "Food",
+        "sku": "CHKN-FD-1000-001",
+        "itemStock": 20,
+        "availability": "Ready"
+    },
+    {
+        "id": 4,
+        "name": "Crispy Chicken Sandwich",
+        "itemImage": "https://source.unsplash.com/500x400/?sandwich,chicken",
+        "description": "A crispy chicken fillet on a bun",
+        "price": 28000,
+        "category": "Food",
+        "sku": "CHKN-FD-500-002",
+        "itemStock": 25,
+        "availability": "Ready"
+    },
+    {
+        "id": 5,
+        "name": "Mushroom Pizza",
+        "itemImage": "https://source.unsplash.com/500x400/?pizza,mushroom",
+        "description": "A delicious pizza topped with mushrooms",
+        "price": 55000,
+        "category": "Food",
+        "sku": "PZZ-FD-750-001",
+        "itemStock": 15,
+        "availability": "Ready"
+    },
+    {
+        "id": 6,
+        "name": "Pepperoni Pizza",
+        "itemImage": "https://source.unsplash.com/500x400/?pizza,pepperoni",
+        "description": "A classic pizza with spicy pepperoni",
+        "price": 60000,
+        "category": "Food",
+        "sku": "PZZ-FD-750-002",
+        "itemStock": 10,
+        "availability": "Ready"
+    },
+    {
+        "id": 7,
+        "name": "Pepsi",
+        "itemImage": "https://source.unsplash.com/500x400/?drink,softdrink",
+        "description": "A refreshing soft drink",
+        "price": 15000,
+        "category": "Beverage",
+        "sku": "SFDRNK-BVRG-500-001",
+        "itemStock": 100,
+        "availability": "Ready"
+    },
+    {
+        "id": 8,
+        "name": "Mineral Water 600ml",
+        "itemImage": "https://source.unsplash.com/YP2xV7jEaqo",
+        "description": "Bottled mineral water",
+        "price": 10000,
+        "category": "Beverage",
+        "sku": "WTR-BVRG-500-001",
+        "itemStock": 80,
+        "availability": "Ready"
+    },
+    {
+        "id": 9,
+        "name": "Beef Burger",
+        "itemImage": "https://source.unsplash.com/5tycZm_x5Ck/300x300",
+        "description": "A classic beef burger.",
+        "price": 45000,
+        "category": "Food",
+        "sku": "BRGR-FD-500-003",
+        "itemStock": 40,
+        "availability": "Ready"
+    },
+    {
+        "id": 10,
+        "name": "Chicken Burger",
+        "itemImage": "https://source.unsplash.com/1YsIgfwKWCs/300x300",
+        "description": "A juicy chicken patty burger.",
+        "price": 48000,
+        "category": "Food",
+        "sku": "BRGR-FD-500-004",
+        "itemStock": 30,
+        "availability": "Ready"
+    },
+    {
+        "id": 11,
+        "name": "Cheese Burger",
+        "itemImage": "https://source.unsplash.com/yL8A_pW1n60/300x300",
+        "description": "A burger with melted cheese.",
+        "price": 55000,
+        "category": "Food",
+        "sku": "BRGR-FD-500-005",
+        "itemStock": 25,
+        "availability": "Ready"
+    },
+    {
+        "id": 12,
+        "name": "Veggie Burger",
+        "itemImage": "https://source.unsplash.com/vTwx0IYsNlY/300x300",
+        "description": "A vegetarian burger patty with veggies.",
+        "price": 48000,
+        "category": "Food",
+        "sku": "BRGR-FD-500-006",
+        "itemStock": 20,
+        "availability": "Ready"
+    },
+    {
+        "id": 13,
+        "name": "Large Fries",
+        "itemImage": "https://source.unsplash.com/random",
+        "description": "A large order of our famous fries.",
+        "price": 25000,
+        "category": "Food",
+        "sku": "FRY-FD-750-001",
+        "itemStock": 60,
+        "availability": "Ready"
+    },
+    {
+        "id": 14,
+        "name": "Onion Rings",
+        "itemImage": "https://source.unsplash.com/random",
+        "description": "A side of crispy onion rings.",
+        "price": 35000,
+        "category": "Food",
+        "sku": "RNG-FD-500-001",
+        "itemStock": 30,
+        "availability": "Ready"
+    },
+    {
+        "id": 15,
+        "name": "Caesar Salad",
+        "itemImage": "https://source.unsplash.com/random",
+        "description": "Fresh romaine lettuce, parmesan cheese, and croutons tossed in our housemade caesar dressing.",
+        "price": 40000,
+        "category": "Food",
+        "sku": "SLD-FD-500-001",
+        "itemStock": 35,
+        "availability": "Ready"
+    },
+    {
+        "id": 16,
+        "name": "Milkshake",
+        "itemImage": "https://source.unsplash.com/random",
+        "description": "A classic milkshake in your choice of flavor.",
+        "price": 35000,
+        "category": "Beverage",
+        "sku": "MLK-BVRG-500-001",
+        "itemStock": 25,
+        "availability": "Ready"
+    },
+    {
+        "id": 17,
+        "name": "Iced Tea",
+        "itemImage": "https://source.unsplash.com/random",
+        "description": "A refreshing iced tea.",
+        "price": 15000,
+        "category": "Beverage",
+        "sku": "T-BVRG-500-001",
+        "itemStock": 70,
+        "availability": "Ready"
+    },
+    {
+        "id": 18,
+        "name": "Chicken Salad",
+        "itemImage": "https://source.unsplash.com/vUAc4s4s4sU",
+        "description": "Fresh salad with grilled chicken breast",
+        "price": 45000,
+        "category": "Food",
+        "sku": "SLD-FD-500-002",
+        "itemStock": 30,
+        "availability": "Ready"
+    },
+    {
+        "id": 19,
+        "name": "Beef Tacos",
+        "itemImage": "https://source.unsplash.com/vH9XqcLaQgI",
+        "description": "Two soft-shell tacos with seasoned beef and toppings",
+        "price": 35000,
+        "category": "Food",
+        "sku": "TACO-FD-500-001",
+        "itemStock": 40,
+        "availability": "Ready"
+    },
+    {
+        "id": 20,
+        "name": "Classic Cheese Pizza",
+        "itemImage": "https://source.unsplash.com/400x400/?pizza,cheese",
+        "description": "Pizza with tomato sauce and mozzarella cheese",
+        "price": 50000,
+        "category": "Food",
+        "sku": "PZZ-FD-750-003",
+        "itemStock": 15,
+        "availability": "Ready"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "name": "sandro",
+      "email": "sandro@gmail.com",
+      "phone": "081123456789",
+      "password": "12345",
+      "role": "Admin"
+    },
+    {
+      "id": 2,
+      "name": "Hesty",
+      "email": "Hesty@gmail.com",
+      "phone": "081234567890",
+      "password": "12345",
+      "role": "Admin"
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "email": "bob.johnson@mail.com",
+      "phone": "081345678901",
+      "password": "12345",
+      "role": "Staff"
+    },
+    {
+      "id": 4,
+      "name": "Alice Brown",
+      "email": "alice.brown@mail.com",
+      "phone": "081456789012",
+      "password": "12345",
+      "role": "Staff"
+    }
+  ]
+  
